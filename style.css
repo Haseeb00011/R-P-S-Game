@@ -121,6 +121,7 @@ img:hover{
     img{
       width: 23vw;
       height: 13vh;
+        cursor:default;
     }
     .choices{
       height: max-content;
